@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Demo_mvvm</string>
+    <string name="title_activity_pdf">PDFActivity</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
